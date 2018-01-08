@@ -2,7 +2,7 @@
 
 I am creating it just to keep track of my progress as I learn. Also, because now I can say that I have my own website 😎
 
-You can see my all other completed or under-progress work [here](https://github.com/vaibssingh). I am mostly interested in anything Linux and Machine Learning.
+You can see my all other completed/under-progress work [here](https://github.com/vaibssingh). I am mostly interested in Machine Learning and anything related to Linux (and TV shows and movies). 
 
 ### Some more stuff about me
 
@@ -14,4 +14,4 @@ I know Machine Learning including various algorithm and neural networks. Some im
 
 ### Contact
 
-You can reach me via [email](singhvaibhav592@gmail.com) or on [Twitter](https://twitter.com/gallifreyanboi). See ya!
+You can reach me at [email](mailto:singhvaibhav592@gmail.com) or on [Twitter](https://twitter.com/gallifreyanboi). See ya!
