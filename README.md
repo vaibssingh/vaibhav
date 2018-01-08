@@ -6,7 +6,7 @@ You can see my all other completed/under-progress work [here](https://github.com
 
 ### Some more stuff about me
 
-I know Machine Learning including various algorithm and neural networks. Some implementations of these can be found on my Github profile. I am also fairly well versed with Linux based OS specially Ubuntu and currently looking for work in these fields. Some other things I know:
+I know Machine Learning including neural networks. Some implementations of these can be found on my Github profile. I am also fairly well versed with Linux based OS specially Ubuntu and currently looking for work in these fields. Some other things I know:
 
 - Python
 - Basics of JavaScript
