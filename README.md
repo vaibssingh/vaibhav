@@ -1,36 +1,17 @@
 ## Hello! Welcome to my page
 
-I am creating it just to keep track of my progress as I learn. Also, because now I can say that I have my own website B|
+I am creating it just to keep track of my progress as I learn. Also, because now I can say that I have my own website 😎
 
 You can see my all other completed or under-progress work [here](https://github.com/vaibssingh). I am mostly interested in anything Linux and Machine Learning.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Some more stuff about me
 
-```markdown
-Syntax highlighted code block
+I know Machine Learning including various algorithm and neural networks. Some implementations of these can be found on my Github profile. I am also fairly well versed with Linux based OS specially Ubuntu and currently looking for work in these fields. Some other things I know:
 
-# Header 1
-## Header 2
-### Header 3
+- Python
+- Basics of JavaScript
+- How to make instant noodles
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaibssingh/vaibhav/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me via [email](singhvaibhav592@gmail.com) or on [Twitter](https://twitter.com/gallifreyanboi). See ya!
