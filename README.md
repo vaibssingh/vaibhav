@@ -16,3 +16,5 @@ I am also a huge movies and TV shows fan. It's too late in the night to remember
 ### Contact
 
 You can reach me at [email](mailto:singhvaibhav592@gmail.com) or on [Twitter](https://twitter.com/gallifreyanboi). See ya!
+
+(very low quality effort, 2/10)
